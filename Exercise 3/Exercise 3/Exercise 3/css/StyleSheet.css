@@ -1,0 +1,46 @@
+﻿h1 {
+    font-family: Georgia;
+    color: blue;
+    background: lightgray;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia;
+    color: #8b0000;
+    font-size: 18px;
+    letter-spacing: 1.4em;
+}
+
+p {
+    font-family: Arial;
+    color: black;
+    font-size: 16px;
+}
+
+span.tab {
+    padding: 0 80px;    
+}
+
+span.tab1 {
+    padding: 0 158px;    
+}
+
+#content {
+    width: 100%;
+    height: 100%;
+}
+
+#heading {
+    text-align: center;
+    width: 100%;
+    height: 60%;
+}
+
+#main {
+    padding-top: 50px;
+}

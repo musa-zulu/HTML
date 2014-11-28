@@ -1,0 +1,5 @@
+C:\Users\Musa\Desktop\Exercise 2\Exercise2\Exercise2\bin\Exercise2.dll
+C:\Users\Musa\Desktop\Exercise 2\Exercise2\Exercise2\bin\Exercise2.pdb
+C:\Users\Musa\Desktop\Exercise 2\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\Musa\Desktop\Exercise 2\Exercise2\Exercise2\obj\Debug\Exercise2.dll
+C:\Users\Musa\Desktop\Exercise 2\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
